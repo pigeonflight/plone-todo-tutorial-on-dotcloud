@@ -1,3 +1,4 @@
+echo "preparing todo tutorial for dotcloud"
 echo "adding customized files"
 cp plone-todo-tutorial-on-dotcloud/buildout.d/development.cfg buildout.d/
 cp plone-todo-tutorial-on-dotcloud/*.conf .
