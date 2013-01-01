@@ -1,7 +1,10 @@
-plone-todo-tutorial-on-dotcloud
-===============================
-
 Plone Todo Tutorial on Dotcloud
+================================
+
+
+These files are to be used in conjunction with the plone todo tutorial
+
+https://github.com/collective/tutorial.todoapp/
 
 Usage:
 
