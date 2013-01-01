@@ -1,6 +1,6 @@
 {
     "push_branch": null, 
-    "application": "todo2", 
+    "application": "todo3", 
     "version": "0.9.1", 
     "push_protocol": "rsync"
 }
