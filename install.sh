@@ -6,6 +6,6 @@ mv setup.py setup.py.zz
 cp plone-todo-tutorial-on-dotcloud/getplone.sh .
 cp plone-todo-tutorial-on-dotcloud/dotcloud.yml .
 
-echo "removing the docs folder, it is bulky and not needed for dotcloud"
-rm -rf docs/*
+echo "removing the images from the docs folder, they are bulky and not needed for dotcloud"
+rm -rf docs/images
 
