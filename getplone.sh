@@ -13,4 +13,4 @@ wget $eggbundle -O eggs.tar.gz
 gunzip eggs.tar.gz
 tar xf eggs.tar
 #gzip -dc eggs.tar.gz | tar -xf -
-bin/buildout -v
+bin/buildout
