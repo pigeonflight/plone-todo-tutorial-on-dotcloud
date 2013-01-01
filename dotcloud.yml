@@ -1,0 +1,5 @@
+www:
+    type: python
+    postinstall: ./getplone.sh
+    config:
+        python_version: v2.7
